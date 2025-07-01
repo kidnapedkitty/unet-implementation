@@ -1,0 +1,2 @@
+# U-Net: Implementation from Scratch
+_This repository contains a from-scratch implementation of the U-Net architecture for image segmentation, based on the paper: [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597) by Ronneberger et al._
