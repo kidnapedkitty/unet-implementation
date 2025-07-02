@@ -1,0 +1,11 @@
+# Data settings
+data_path: "" # todo
+img_height: 128
+img_width: 128
+
+# Training settings
+device: "cuda" # or "cpu"
+epochs: 25
+batch_size: 16
+learning_rate: 0.001
+num_workers: 4
