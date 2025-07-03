@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/secret_thing.iml" filepath="$PROJECT_DIR$/.idea/secret_thing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/unet-implementation.iml" filepath="$PROJECT_DIR$/.idea/unet-implementation.iml" />
     </modules>
   </component>
 </project>
